@@ -141,6 +141,69 @@ header {
   border-bottom: 2px solid black;
   position: absolute;
 }
+
+
+
+
+.DETAILS-part {
+  font-family: Montserrat, sans-serif;
+  margin-top: 30px;
+  margin-left: 10px;
+  height: 448px;
+  width: 90%;
+  border: 1px solid;
+  border-radius: 19px;
+ 
+}
+
+.DETAILS-part P{
+margin-left: 23px;
+  font-family: Montserrat, sans-serif;
+  font-size: 17px;
+
+}
+.DETAILS-part h1{
+  margin-top: 10px;
+ font-size: 33px;
+width: 100%;
+margin-left: 200px;
+}
+.details h2{
+
+ margin-left: 15px;
+}
+.titls{
+  
+  font-family: Montserrat, sans-serif;
+  font-size :22px;
+  Font-style: Bold;
+ 
+  
+}
+.linebetween3{
+
+  width: 1px;
+  height: 270px;
+  background-color: black;
+  margin-top: 50px;
+
+}
+.rating-detail {
+  display: grid;
+  grid-template-columns: auto auto;
+  
+}
+
+.DETAILS-part{
+  display: grid;
+  grid-template-columns: auto auto  auto;
+  line-height: 2;
+}
+.features{
+ 
+  margin-top:75px;
+  line-height: 2;
+}
 .ratings {
   margin-left: 90px;
   margin-top: 30px;
@@ -172,7 +235,7 @@ header {
   margin-top: 40px;
   margin-left: 120px;
 }
-.VEGAN-TITLE{
+.TITLE{
   color: #ff7e00;
   margin-top: 40px;
   margin-left: 130px;
@@ -183,6 +246,16 @@ h3{
   margin-left:700px;
   font-style: Bold;
   font-size: 33px;
+}
+.PRICE{
+  color:black;
+  margin-left:1235px;
+  font-style: Medium;
+  font-size: 44px;
+  margin-top: -60px;
+  font-family:Rubik ,sans-serif;
+
+
 }
 .VEGAN-Oroura-Sushi{
   height: 284px;
